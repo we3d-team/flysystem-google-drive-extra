@@ -1,5 +1,5 @@
 {
-  "name": "private-it/flysystem-google-drive",
+  "name": "kalhoang/flysystem-google-drive-extra",
   "description": "FlySystem adapter for Google Drive (work with path)",
   "keywords": [
     "laravel",
@@ -12,6 +12,10 @@
     {
       "name": "Igor Sapegin",
       "email": "sapegin.in@gmail.com"
+    },
+    {
+      "name": "Kal Hoang",
+      "email": "kal@kal.vn"
     }
   ],
   "autoload": {
@@ -20,7 +24,7 @@
     }
   },
   "require": {
-    "nao-pon/flysystem-google-drive": "^1.1",
+    "kalhoang/flysystem-google-drive": "^1.1",
     "illuminate/filesystem": "^9.0"
   },
   "extra": {
